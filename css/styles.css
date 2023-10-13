@@ -208,6 +208,23 @@ img {
 
 .subject-menu-list {}
 
+.subject-container-icon {
+    display: flex;
+    max-width: 264px;
+    max-height: 112px;
+    border: 1px solid #8E8F99;
+    border-radius: 4px;
+    background-color: #F4F4FD;
+    fill: none;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+.subject-item-icon {}
+
 .subject-menu-caption {
     color: #2E2F42;
     font-size: 20px;
